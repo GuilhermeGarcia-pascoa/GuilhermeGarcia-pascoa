@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Guilherme Vommaro Garcia
-- 👀 I’m interested in Face biometrics and DataBase.
-- 🌱 I’m currently learning c# and Java.
-- ⚡ Fun fact: i am 16y/o, trying to be a programmer.
+Sou o guigui
