@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:7f1d1d&height=220&section=header&text=Guilherme%20Garcia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-**Estagiário de desenvolvimento na FOeng Group** · Albergaria-a-Velha, Portugal
+**Estagiário de desenvolvimento na FOeng Group**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-58b2983b8/)
-[![Email](https://img.shields.io/badge/paschoal2310@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:paschoal2310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-58b2983b8/)
+[![Email](https://img.shields.io/badge/paschoal2310@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paschoal2310@gmail.com)
 
 </div>
 
