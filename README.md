@@ -2,17 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Guilherme%20Garcia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Programador;A+estudar+Ciberseguran%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Desenvolvedor+Flutter;A+estudar+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
 </div>
 
-## 👋 Olá, eu sou o Guilherme!
+## Sobre mim
 
-- 🔐 A estudar **Cibersegurança**
-- 📱 Trabalho com **Flutter**
-- 💻 Conhecimentos em **C#**, **ASP.NET** e **Java**
+Desenvolvedor Flutter, atualmente a estudar Cibersegurança. Tenho conhecimentos em C#, ASP.NET e Java.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -25,14 +23,33 @@
 
 </div>
 
-## 🚀 Projetos em destaque
+## Projetos
 
-| Projeto | Descrição |
-|---|---|
-| [CofreBiometrico-VaultFace](https://github.com/GuilhermeGarcia-pascoa/CofreBiometrico-VaultFace) | Site que valida a abertura de um cofre com biometria facial |
-| [Gestor_nebulaVpn](https://github.com/GuilhermeGarcia-pascoa/Gestor_nebulaVpn) | Gestor de VPN feito em Java |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuilhermeGarcia-pascoa/GestoNebula-VPN_APK">GestoNebula-VPN_APK</a></h3>
+      <p>Transformação do meu antigo projeto de gestão do Nebula VPN num aplicativo. Serve para aprimorar conhecimentos usados no estágio.</p>
+      <p><b>TypeScript</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuilhermeGarcia-pascoa/CofreBiometrico-VaultFace">CofreBiometrico-VaultFace</a></h3>
+      <p>Site que valida a abertura de um cofre através de biometria facial.</p>
+      <p><b>HTML</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuilhermeGarcia-pascoa/Gestor_nebulaVpn">Gestor_nebulaVpn</a></h3>
+      <p>Gestor de Nebula VPN. Primeira versão do projeto.</p>
+      <p><b>Java</b></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
