@@ -15,7 +15,7 @@
 
 Estagiário de desenvolvimento na FOeng Group, onde trabalho principalmente com Flutter.
 
-Tenho uma base sólida em Java e C#, construída em projetos pessoais, e vou iniciar o **CTeSP em Cibersegurança** no Politécnico de Águeda em setembro de 2026.
+Tenho uma base sólida em Java e C#, construída em projetos pessoais, e estou a cursar **Cibersegurança**.
 
 <br>
 
