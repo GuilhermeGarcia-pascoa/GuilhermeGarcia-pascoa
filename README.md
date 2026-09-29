@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6a040f,100:d00000&height=220&section=header&text=Guilherme%20Garcia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:7f1d1d&height=220&section=header&text=Guilherme%20Garcia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 **Estagiário de desenvolvimento na FOeng Group** · Albergaria-a-Velha, Portugal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=d00000)](https://www.linkedin.com/in/guilherme-garcia-58b2983b8/)
-[![Email](https://img.shields.io/badge/paschoal2310@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=d00000)](mailto:paschoal2310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-58b2983b8/)
+[![Email](https://img.shields.io/badge/paschoal2310@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:paschoal2310@gmail.com)
 
 </div>
 
@@ -21,7 +21,22 @@ Tenho uma base sólida em Java e C#, construída em projetos pessoais, e vou ini
 
 ### Tecnologias
 
-<img src="assets/tecnologias.svg" width="100%" alt="Tecnologias: Flutter, HTML, CSS, Node.js, PHP, MySQL, Java, C#, .NET, Python, Ubuntu, Proxmox, Git" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-161b22?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-161b22?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-161b22?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 <br>
 
@@ -37,6 +52,6 @@ Tenho uma base sólida em Java e C#, construída em projetos pessoais, e vou ini
 
 ### Experiência
 
-<img src="assets/experiencia.svg" width="100%" alt="Experiência: FOeng Group, Softi9, EET Portugal" />
+<a href="https://www.linkedin.com/in/guilherme-garcia-58b2983b8/"><img src="assets/experiencia.svg" width="100%" alt="Experiência: FOeng Group, Softi9, EET Portugal" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d00000,50:6a040f,100:0d1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,40:161b22,100:0d1117&height=110&section=footer" width="100%" />

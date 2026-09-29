@@ -2,22 +2,22 @@
   <style>
     .t{font:700 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
     .d{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
-    .tag{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ff4d4d}
-    .a{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c9d1d9}
+    .tag{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c9d1d9}
+    .a{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
     g{animation:f .6s ease .15s both}
     @keyframes f{from{opacity:0;transform:translateY(8px)}}
   </style>
   <g>
     <rect x="0.5" y="0.5" width="269" height="239" rx="12" fill="#161b22" stroke="#30363d"/>
-    <clipPath id="k"><rect x="0.5" y="0.5" width="269" height="239" rx="12"/></clipPath><rect x="0" y="0" width="270" height="5" fill="#d00000" clip-path="url(#k)"/>
+    <clipPath id="k"><rect x="0.5" y="0.5" width="269" height="239" rx="12"/></clipPath><rect x="0" y="0" width="270" height="3" fill="#b91c1c" clip-path="url(#k)"/>
     <text class="t" x="22" y="44">Gestor Nebula VPN</text>
     <text class="d" x="22" y="80">Aplicação desktop para gestão</text>
     <text class="d" x="22" y="100">de redes VPN. Automatiza hosts,</text>
     <text class="d" x="22" y="120">chaves e certificados, em</text>
     <text class="d" x="22" y="140">Windows e Linux.</text>
-    <rect x="22" y="166" width="44" height="24" rx="12" fill="#2a0a0c" stroke="#6a040f"/><text class="tag" x="44" y="182" text-anchor="middle">Java</text>
-    <rect x="72" y="166" width="52" height="24" rx="12" fill="#2a0a0c" stroke="#6a040f"/><text class="tag" x="98" y="182" text-anchor="middle">Swing</text>
-    <rect x="130" y="166" width="56" height="24" rx="12" fill="#2a0a0c" stroke="#6a040f"/><text class="tag" x="158" y="182" text-anchor="middle">SQLite</text>
+    <rect x="22" y="166" width="44" height="24" rx="12" fill="#21262d" stroke="#30363d"/><text class="tag" x="44" y="182" text-anchor="middle">Java</text>
+    <rect x="72" y="166" width="52" height="24" rx="12" fill="#21262d" stroke="#30363d"/><text class="tag" x="98" y="182" text-anchor="middle">Swing</text>
+    <rect x="130" y="166" width="56" height="24" rx="12" fill="#21262d" stroke="#30363d"/><text class="tag" x="158" y="182" text-anchor="middle">SQLite</text>
     <text class="a" x="22" y="220">Ver repositório →</text>
   </g>
 </svg>
