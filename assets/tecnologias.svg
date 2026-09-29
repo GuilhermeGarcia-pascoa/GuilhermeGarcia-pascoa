@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="240" viewBox="0 0 830 240">
+  <style>
+    .card{fill:#161b22;stroke:#30363d}
+    .title{font:700 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+    .chip{fill:#0d1117;stroke:#30363d}
+    .item{font:500 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c9d1d9}
+    .g{animation:f .6s ease both}
+    .g2{animation-delay:.15s}.g3{animation-delay:.3s}.g4{animation-delay:.45s}
+    @keyframes f{from{opacity:0;transform:translateY(8px)}}
+  </style>
+
+  <g class="g">
+    <rect class="card" x="0.5" y="0.5" width="193" height="239" rx="12"/>
+    <text class="title" x="20" y="36">Mobile e Web</text>
+    <rect x="20" y="48" width="30" height="3" rx="1.5" fill="#d00000"/>
+    <rect class="chip" x="16" y="70" width="162" height="30" rx="6"/><circle cx="30" cy="85" r="4" fill="#d00000"/><text class="item" x="44" y="90">Flutter</text>
+    <rect class="chip" x="16" y="110" width="162" height="30" rx="6"/><circle cx="30" cy="125" r="4" fill="#d00000"/><text class="item" x="44" y="130">HTML</text>
+    <rect class="chip" x="16" y="150" width="162" height="30" rx="6"/><circle cx="30" cy="165" r="4" fill="#d00000"/><text class="item" x="44" y="170">CSS</text>
+  </g>
+
+  <g class="g g2">
+    <rect class="card" x="212.5" y="0.5" width="193" height="239" rx="12"/>
+    <text class="title" x="232" y="36">Backend e Dados</text>
+    <rect x="232" y="48" width="30" height="3" rx="1.5" fill="#d00000"/>
+    <rect class="chip" x="228" y="70" width="162" height="30" rx="6"/><circle cx="242" cy="85" r="4" fill="#d00000"/><text class="item" x="256" y="90">Node.js</text>
+    <rect class="chip" x="228" y="110" width="162" height="30" rx="6"/><circle cx="242" cy="125" r="4" fill="#d00000"/><text class="item" x="256" y="130">PHP</text>
+    <rect class="chip" x="228" y="150" width="162" height="30" rx="6"/><circle cx="242" cy="165" r="4" fill="#d00000"/><text class="item" x="256" y="170">MySQL</text>
+  </g>
+
+  <g class="g g3">
+    <rect class="card" x="424.5" y="0.5" width="193" height="239" rx="12"/>
+    <text class="title" x="444" y="36">Linguagens</text>
+    <rect x="444" y="48" width="30" height="3" rx="1.5" fill="#d00000"/>
+    <rect class="chip" x="440" y="70" width="162" height="30" rx="6"/><circle cx="454" cy="85" r="4" fill="#d00000"/><text class="item" x="468" y="90">Java</text>
+    <rect class="chip" x="440" y="110" width="162" height="30" rx="6"/><circle cx="454" cy="125" r="4" fill="#d00000"/><text class="item" x="468" y="130">C#</text>
+    <rect class="chip" x="440" y="150" width="162" height="30" rx="6"/><circle cx="454" cy="165" r="4" fill="#d00000"/><text class="item" x="468" y="170">.NET</text>
+    <rect class="chip" x="440" y="190" width="162" height="30" rx="6"/><circle cx="454" cy="205" r="4" fill="#d00000"/><text class="item" x="468" y="210">Python</text>
+  </g>
+
+  <g class="g g4">
+    <rect class="card" x="636.5" y="0.5" width="193" height="239" rx="12"/>
+    <text class="title" x="656" y="36">Sistemas</text>
+    <rect x="656" y="48" width="30" height="3" rx="1.5" fill="#d00000"/>
+    <rect class="chip" x="652" y="70" width="162" height="30" rx="6"/><circle cx="666" cy="85" r="4" fill="#d00000"/><text class="item" x="680" y="90">Ubuntu</text>
+    <rect class="chip" x="652" y="110" width="162" height="30" rx="6"/><circle cx="666" cy="125" r="4" fill="#d00000"/><text class="item" x="680" y="130">Proxmox</text>
+    <rect class="chip" x="652" y="150" width="162" height="30" rx="6"/><circle cx="666" cy="165" r="4" fill="#d00000"/><text class="item" x="680" y="170">Git</text>
+  </g>
+</svg>
