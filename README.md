@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Guilherme%20Garcia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Desenvolvedor+Flutter;A+estudar+Ciberseguran%C3%A7a" alt="Typing SVG" />
-
 </div>
 
 ## Sobre mim
