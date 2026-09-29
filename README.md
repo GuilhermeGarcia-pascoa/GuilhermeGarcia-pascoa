@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Guilherme%20Garcia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Futuro%20Técnico%20de%20Gestão%20e%20Programação%20de%20Sistemas%20Informáticos&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Aprendendo+e+praticando+C%23+%26+ASP.NET;Focado+em+terminar+a+minha+PAP;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Programador+em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a+%F0%9F%9B%A1%EF%B8%8F;PAP+conclu%C3%ADda+%E2%9C%85;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ## 👋 Olá, eu sou o Guilherme!
 
-- 🎓 Na reta final do curso de **TGPSI**
-- 💻 Aprendendo e praticando **C#** e **ASP.NET**
-- 🎯 Completamente focado em terminar a minha **PAP**
+- 🎓 Formado em **TGPSI**, com a **PAP** concluída ✅
+- 🔐 Agora a estudar **Cibersegurança**
+- 💻 Com base em **C#**, **ASP.NET** e **Java**
 - 🌱 Sempre à procura de novos projetos e desafios
 
 ## 🛠️ Tecnologias
@@ -25,6 +25,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**🔐 Cibersegurança (a aprender):**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2EA043?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 
