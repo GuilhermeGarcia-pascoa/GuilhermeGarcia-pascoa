@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Guilherme%20Garcia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Futuro%20Técnico%20de%20Gestão%20e%20Programação%20de%20Sistemas%20Informáticos&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Guilherme%20Garcia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Programador+em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a+%F0%9F%9B%A1%EF%B8%8F;PAP+conclu%C3%ADda+%E2%9C%85;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Programador+em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a+%F0%9F%9B%A1%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ## 👋 Olá, eu sou o Guilherme!
 
-- 🎓 Formado em **TGPSI**, com a **PAP** concluída ✅
-- 🔐 Agora a estudar **Cibersegurança**
+- 🔐 A estudar **Cibersegurança**
 - 💻 Com base em **C#**, **ASP.NET** e **Java**
 - 🌱 Sempre à procura de novos projetos e desafios
 
@@ -55,7 +54,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ggarcia%40fo--engenheiros.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggarcia@fo-engenheiros.com)
+[![Email](https://img.shields.io/badge/Email-paschoal2310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paschoal2310@gmail.com)
 
 </div>
 
